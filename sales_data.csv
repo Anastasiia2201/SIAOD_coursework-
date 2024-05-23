@@ -1,0 +1,16 @@
+Номер заказа,Дата заказа,Название товара,Категория товара,Количество продаж,Цена за единицу,Общая стоимость
+1,2023-04-15,WidgetA,Electronics,25,19.99,499.75
+2,2023-04-16,GadgetX,Electronics,18,29.99,539.82
+3,2023-04-17,GizmoZ,HomeGoods,32,14.99,479.68
+4,2023-04-18,DoohickeyY,HomeGoods,41,9.99,409.59
+5,2023-04-19,ThingamajigB,Electronics,27,24.99,674.73
+6,2023-04-20,GizmoA,HomeGoods,15,12.99,194.85
+7,2023-04-21,WidgetC,Electronics,20,22.99,459.80
+8,2023-04-22,ThingamajigD,Electronics,12,27.99,335.88
+9,2023-04-23,GadgetY,Electronics,30,19.99,599.70
+10,2023-04-24,DoohickeyZ,HomeGoods,22,14.99,329.78
+11,2023-04-30,ChairA,Furniture,5,89.99,449.95
+12,2023-05-01,TableB,Furniture,3,149.99,449.97
+13,2023-05-02,LampC,HomeDecor,12,29.99,359.88
+14,2023-05-03,RugD,HomeDecor,7,79.99,559.93
+15,2023-05-04,SofaE,Furniture,2,599.99,1199.98
